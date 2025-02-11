@@ -1,11 +1,7 @@
-peft
-numpy
 torch
+transformers
+argparse
+numpy
 pandas
-seaborn
-datasets 
-matplotlib
-accelerate 
-rouge_score
-bitsandbytes 
-transformers 
+rouge-score
+download_model 
